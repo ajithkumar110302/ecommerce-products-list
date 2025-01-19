@@ -16,6 +16,7 @@ when scroll 50 px, the scroll to top button appear with fade in and fade out eff
 
 # folder structure
 
+```
 /project-root
 │
 ├── /public
@@ -32,4 +33,4 @@ when scroll 50 px, the scroll to top button appear with fade in and fade out eff
 ├── .gitignore
 ├── package.json
 ├── README.md
-└── tsconfig.json
+```
