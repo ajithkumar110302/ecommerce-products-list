@@ -13,3 +13,23 @@ react hot toast package used for showing toast at the bottom right corner when i
 # scroll to top button
 
 when scroll 50 px, the scroll to top button appear with fade in and fade out effect used framer motion for animation.
+
+# folder structure
+
+/project-root
+│
+├── /public
+│
+├── /src
+│ ├── /components - reusable components
+│ ├── /pages - products page
+│ ├── /context - cart and product context
+│ ├── /data - common data used across
+│ ├── /assests
+│
+├── /node_modules
+│
+├── .gitignore
+├── package.json
+├── README.md
+└── tsconfig.json
